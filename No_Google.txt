@@ -111,7 +111,6 @@
 ||google.co.za^
 ||google.co.zm^
 ||google.co.zw^
-||google.com^
 ||google.com.af^
 ||google.com.ag^
 ||google.com.ai^
@@ -166,7 +165,6 @@
 ||google.com.sv^
 ||google.com.tj^
 ||google.com.tr^
-||google.com.tw^
 ||google.com.ua^
 ||google.com.uy^
 ||google.com.vc^
